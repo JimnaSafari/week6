@@ -18,7 +18,7 @@ This project implements an **Edge AI image classification model** to detect type
 
 ## 🚀 Demo
 
-Try the model in the Streamlit UI:
+Try the model in the Streamlit UI:https://twelve-buttons-feel.loca.lt/
 
 streamlit run app.py
 
